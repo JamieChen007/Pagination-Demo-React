@@ -34,7 +34,6 @@ const Pagination = (props) => {
           <option value="20">20</option>
         </select>
       </div>
-      <div></div>
     </>
   );
 };
